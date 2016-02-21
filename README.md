@@ -1,4 +1,4 @@
 # hello-world
-Just first repository
+Just first repository!
 
 Edit: some changes (learn how to commit changes)
